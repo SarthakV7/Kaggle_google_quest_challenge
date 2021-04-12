@@ -520,37 +520,4 @@ The final analysis is on the feature category. For this feature, I’ll be picki
 We can notice that datapoints with category as technology make up 50% of the data that the model could not predict well whereas categories like LIFE_ARTS, SCIENCE, and CULTURE contribute much less to bad predictions.
 For the good predictions, all the 5 categories contribute almost the same since there is no major difference in the proportion, still, we could say that the data-points with StackOverflow as the category contribute the least.
 
-*With this, we have come to the end of this blog and the 3 part series. Hope the read was pleasant.
 You can check the complete notebook on Kaggle using [**this link](https://www.kaggle.com/sarthakvajpayee/top-4-4-bert-roberta-xlnet)** and leave an upvote if found my work useful.
-I would like to thank all the creators for creating the awesome content I referred to for writing this blog.*
-
-*Reference links:*
-
-* *Applied AI Course: [https://www.appliedaicourse.com/](https://www.appliedaicourse.com/)*
-
-* [https://www.kaggle.com/c/google-quest-challenge/notebooks](https://www.kaggle.com/c/google-quest-challenge/notebooks)
-
-* [*http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)*
-
-* [*https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04](https://medium.com/inside-machine-learning/what-is-a-transformer-d07dd1fbec04)*
-
-* [https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8](https://towardsdatascience.com/bert-roberta-distilbert-xlnet-which-one-to-use-3d5ab82ba5f8)
->  **Final note**
-
-Thank you for reading the blog. I hope it was useful for some of you aspiring to do projects or learn some new concepts in NLP.
-
-In [part 1/3](https://towardsdatascience.com/transformers-state-of-the-art-natural-language-processing-1d84c4c7462b?source=friends_link&sk=4ba3eb424ff59ce765c749819c6b5892) we covered how Transformers became state-of-the-art in various modern natural language processing tasks and their working.
-
-In [part 2/3](https://towardsdatascience.com/understanding-bert-bidirectional-encoder-representations-from-transformers-45ee6cd51eef?source=friends_link&sk=f48ce58edfdf395fe5d86436d8102a61) we went through BERT (Bidirectional Encoder Representations from Transformers).
-
-Kaggle in-depth EDA notebook link: [https://www.kaggle.com/sarthakvajpayee/top-4-4-in-depth-eda-feature-scraping?scriptVersionId=40263047](https://www.kaggle.com/sarthakvajpayee/top-4-4-in-depth-eda-feature-scraping?scriptVersionId=40263047)
-
-Kaggle modeling notebook link: [https://www.kaggle.com/sarthakvajpayee/top-4-4-bert-roberta-xlnet](https://www.kaggle.com/sarthakvajpayee/top-4-4-bert-roberta-xlnet)
-
-Kaggle post-modeling notebook link: [https://www.kaggle.com/sarthakvajpayee/top-4-4-post-modeling-analysis?scriptVersionId=40262842](https://www.kaggle.com/sarthakvajpayee/top-4-4-post-modeling-analysis?scriptVersionId=40262842)
-
-Find me on LinkedIn: [www.linkedin.com/in/sarthak-vajpayee](http://www.linkedin.com/in/sarthak-vajpayee)
-
-Find this project on Github: [https://github.com/SarthakV7/Kaggle_google_quest_challenge](https://github.com/SarthakV7/Kaggle_google_quest_challenge)
-
-Peace! ☮
